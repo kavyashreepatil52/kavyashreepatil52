@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kavyashree Patil 👋
 
-<!--
-**kavyashreepatil52/kavyashreepatil52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I enjoy creating clean, responsive, and user-friendly web experiences. I'm passionate about frontend development and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Browser Local Storage
+
+## 🚀 Featured Project
+
+### StyleCart – Fashion E-commerce Website
+
+A responsive fashion shopping website built using HTML, CSS, and JavaScript.
+
+**Features:**
+- Product search and category filters
+- Shopping cart and wishlist
+- Product details and size selection
+- Customer login demo
+- Order tracking
+- Admin dashboard
+
+🔗 [Live Website](https://kavyashreepatil52.github.io/stylecart-fashion-store/)
+
+🔗 [View Source Code](https://github.com/kavyashreepatil52/stylecart-fashion-store)
+
+## 📫 Connect With Me
+- GitHub: [@kavyashreepatil52](https://github.com/kavyashreepatil52)
+
+---
+⭐ Thanks for visiting my profile!
+
